@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  bitrise-intgeration
-//
-//  Created by Roy Segall on 16/03/2023.
-//
-
 import SwiftUI
 
 struct ContentView: View {
